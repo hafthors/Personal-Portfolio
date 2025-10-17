@@ -23,7 +23,7 @@ html {
 
 .section-heading {
   font-size: 5rem;
-  color: #333;
+  color: green;
   text-transform: uppercase;
   letter-spacing: 0.5rem;
   margin-bottom: 15rem;
@@ -48,8 +48,8 @@ html {
 .section-1-heading {
   font-size: 6rem;
   font-weight: 700;
-  color: #fff;
-  background-color: #e41c6f;
+  color: yellow;
+  background-color: lightyellow;
   padding: 0 3rem;
   margin-bottom: 5rem;
   text-transform: uppercase;
@@ -72,7 +72,7 @@ html {
 
 .person-name {
   font-size: 2rem;
-  color: #fff;
+  color: lime;
   background-color: #e41c6f;
   margin: 5rem 0;
   padding: 0.5rem 3rem;
